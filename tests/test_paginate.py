@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Copyright (c) 2007-2012 Christoph Haas <email@christoph-haas.de>
-# See the file LICENSE for copying permission.
-
 """"Test paginate module."""
 import pytest
 import paginate
