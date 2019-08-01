@@ -27,8 +27,8 @@ setup(
     ],
     keywords='pagination paginate pages',
     author='Christoph Haas',
-    author_email='email@christoph-haas.de',
-    url='https://github.com/Signum/paginate',
+    author_email='randmwheeler@gmail.com',
+    url='https://github.com/rwheeler-7864/paginate',
     license='MIT',
     packages=find_packages(),
     extras_require={
